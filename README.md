@@ -30,3 +30,12 @@ Having completed the course, below is everything done in regards to prep before 
 - Look for vulnerabilities ;)
 
 This may not seem like much, but it's what I did for prep. My best advice is DO NOT OVERTHINK things and don't rush through it. It took me 2 attempts when it should have taken one, I was jumping around not documenting enough what I was trying (It's easy to create your own rabbit holes...). Slow down you have 48 hours!
+
+
+## Notes
+
+**XSS to RCE**
+
+https://github.com/wetw0rk/AWAE-PREP/tree/master/XSS%20and%20MySQL
+
+Writeup - https://sarthaksaini.com/2019/awae/xss-rce.htm
